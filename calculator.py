@@ -1,6 +1,3 @@
-
-
-# function for calculating the area of a triangle
 def area (h, b):
     return (h*b) / 2
 
