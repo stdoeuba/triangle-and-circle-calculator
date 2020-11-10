@@ -1,9 +1,10 @@
 
-import math
 
 # function for calculating the area of a triangle
 def area (h, b):
     return (h*b) / 2
+
+import math
 
 #function that defines an area of a circle
 def area_of_circle(r):
@@ -33,3 +34,4 @@ circlearea = area_of_circle(r)
 
 #print solution to the console
 print("the circle has an area of: " , round(circlearea,2), "cm^2")
+
