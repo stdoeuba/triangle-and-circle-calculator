@@ -1,1 +1,1 @@
-# triangle-and-circle-calculator
+# triangle and circle calculator
